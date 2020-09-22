@@ -1,0 +1,34 @@
+[{
+    "title":"java",
+    "price":200,
+    "category":"tech",
+    "author":"kyathy"
+},
+
+    {
+        "title":"communication",
+        "price":100,
+        "category":"english",
+        "author":"shilpa"
+},
+{
+    "title":"Python",
+    "price":700,
+    "category":"tech",
+    "author":"nisarga"
+},
+{
+    "title":"verbal",
+    "price":200,
+    "category":"english",
+    "author":"nisarga"
+},
+{
+    "title":"apptitude",
+    "price":1000,
+    "category":"drive",
+    "author":"agarwal"
+}
+]
+
+
